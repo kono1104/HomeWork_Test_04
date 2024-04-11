@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 4
+
+login: kono###
+password: 365a26631f
+
+title_name: Hello
+description_name: world
+content_name: Hello world!
+
+your_name: Sergey
+your_email: konoserg5@gmail.com
+your_content: Hello world!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: kono11
+password_1: 6af1572bf2
